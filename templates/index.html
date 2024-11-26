@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Information</title>
+</head>
+<body>
+    <h1>College Information</h1>
+    <div>
+        {% for college in colleges %}
+            <h2>{{ college['University'] }}</h2>
+            <p>Course Fees: {{ college['Course Fees'] }}</p>
+            <p>Hostel Fees: {{ college['Hostel Fees'] }}</p>
+            <p>Total Fees: {{ college['Total Fees'] }}</p>
+            <p>Placement Rate: {{ college['Placement Rate'] }}</p>
+            <p>Average Salary: {{ college['Average Salary'] }}</p>
+            <hr>
+        {% endfor %}
+    </div>
+</body>
+</html>
+

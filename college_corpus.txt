@@ -1,0 +1,98 @@
+University: IIT Madras
+Course Fees: 5.3L-10L
+Hostel Fees: 4.3L-5.4L
+Total Fees: 12.8L-15.9L
+Placement Rate: 80%
+Average Salary: 22 LPA
+
+University: IIT Delhi
+Course Fees: 8L-10L
+Hostel Fees: 3.7L-4.5L
+Total Fees: 11.8L-14.7L
+Placement Rate: 84.90%
+Average Salary: 17.6 LPA
+
+University: IIT Bombay
+Course Fees: 8L-20L
+Hostel Fees: 2.9L-3.6L
+Total Fees: 11.09L-23.8L
+Placement Rate: 75%
+Average Salary: 23.5 LPA
+
+University: IIT Kanpur
+Course Fees: 8L
+Hostel Fees: 1.02L
+Total Fees: 9.2L
+Placement Rate: 95%
+Average Salary: 40.7 LPA
+
+University: IIT Kharagpur
+Course Fees: 8L-10L
+Hostel Fees: 1.7L-1.7L
+Total Fees: 12L-14.6L
+Placement Rate: 90%
+Average Salary: 24 LPA
+
+University: IIT Roorkee
+Course Fees: 8L-10.7L
+Hostel Fees: 55K-81K
+Total Fees: 8.6L-11.6L
+Placement Rate: 80%
+Average Salary: 20 LPA
+
+University: IIT Guwahati
+Course Fees: 8L
+Hostel Fees: 2.3L
+Total Fees: 10.9L
+Placement Rate: 78%
+Average Salary: 25.7 LPA
+
+University: IIT Hyderabad
+Course Fees: 8L
+Hostel Fees: 2.5L
+Total Fees: 11.6L
+Placement Rate: 74.90%
+Average Salary: 22.5 LPA
+
+University: NIT Trichy
+Course Fees: 5L
+Hostel Fees: 2.7L
+Total Fees: 8L
+Placement Rate: 90.60%
+Average Salary: 15.7 LPA
+
+University: VIT Vellore
+Course Fees: 4.9L-7.8L
+Hostel Fees: 4.2L-5.2L
+Total Fees: 9.1L-13L
+Placement Rate: 95%
+Average Salary: 9.9 LPA
+
+University: Jadavpur University
+Course Fees: 9.6K-1.2L
+Hostel Fees: 900-1.2k
+Total Fees: 10.5K-1.2L
+Placement Rate: 90%
+Average Salary: 11 LPA
+
+University: SRM Institute of Science and Technology
+Course Fees: 10L-18L
+Hostel Fees: 4.2L-4.4L
+Total Fees: 14.3L-22.5L
+Placement Rate: 80%
+Average Salary: 7.1 LPA
+
+University: IIT Dhanbad
+Course Fees: 8L-8.3L
+Hostel Fees: 1.6L-1.9L
+Total Fees: 9.7L-10.3L
+Placement Rate: 69.90%
+Average Salary: 29.6 LPA
+
+University: NIT Rourkela
+Course Fees: 5L-6.3L
+Hostel Fees: 3.2L-4L
+Total Fees: 9.2L-11.4L
+Placement Rate: 97%
+Average Salary: 18.3 LPA
+
