@@ -20,6 +20,7 @@ python app.py
 ```
 
 4. The API will be available at
-```sh http://127.0.0.1:5000/
+```sh 
+http://127.0.0.1:5000/
 ```
 
